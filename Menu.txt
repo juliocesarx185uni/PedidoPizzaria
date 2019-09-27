@@ -2,11 +2,12 @@ CONTROLE DE VENDA DE PIZZAS
 
 Pizzari: Pizza Alegre
 
-Versao: 001
+Versao: 002
 
 Operador:
 
 
 Telefone:
-
-Cliente:
+Cliente
+CPF:
+E-mail:
